@@ -1,4 +1,4 @@
-<div style= background-color:"red";>
+<div background-color: #0000;>
 <h1 align="center">Hi 👋, I'm AKHIL JP</h1>
 <h3 align="center">A passionate Full Stack developer from India. I’m a MERN/MEAN Stack Developer and building tech to elevate people🧑‍💻 React| Angular | Node js | Mongo DB | Express js</h3>
 
