@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'M AKHIL JP</h1>
-<h3 align="center">A passionate Full Stack developer from India. I’m a MERN/MEAN Stack Developer and building tech to elevate people🧑‍💻 React| Angular | Node js | Mongo DB | Express js</h3>
+<h3 align="center">A passionate Full Stack developer from India. I’m a MERN/MEAN & XR Developer and building tech to elevate people🧑‍💻 React| Angular | Node js | Mongo DB | Express js 
+| SEO | Digital Marketing | Google Ads | Meta Ads</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiljptvm&label=Profile%20views&color=0e75b6&style=flat" alt="akhiljptvm" /> </p>
 
@@ -10,7 +11,7 @@
 
 - 🔭 I’m currently working on **TrackGenesis**
 
-- 💬 Ask me about **React,Angular,UI/UX,Nodejs,MongoDB**
+- 💬 Ask me about **React,Angular,UI/UX,Nodejs,MongoDB,AR VR**
 
 - 📫 How to reach me **akhilakku008@gmail.com**
 
